@@ -19,7 +19,7 @@ export function Footer() {
           {/* Kolom Kanan (menjadi layout utama di mobile) */}
           <div className="flex flex-col items-center justify-center text-center md:items-end md:justify-between">
             {/* Logo dipindahkan ke atas di mobile dengan order-first */}
-            <Image alt="Logo Srikandi VA" className="h-auto w-[180px] sm:w-[250px] order-first md:order-last" src="/images/srikandi-footer.svg" width={300} height={40} />
+            <Image alt="Logo Srikandi VA" className="h-auto w-[180px] sm:w-[350px] mt-[15px] order-first md:order-last" src="/images/srikandi-footer.svg" width={350} height={40} />
             {/* Tombol akan memenuhi lebar di mobile dan kembali normal di desktop */}
             <Link href="/request" className="mt-8  md:mt-0 md:mb-5 w-full md:w-auto inline-flex h-12 items-center justify-center rounded-md bg-[#A11692] px-8 text-base font-medium text-white shadow transition-colors hover:bg-[#A11692]/90">
               Hubungi kami
