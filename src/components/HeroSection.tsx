@@ -22,7 +22,7 @@ export function HeroSection() {
                 Cerdas untuk Semua
                 <span className="font-suwargi text-[#F45866] tracking-[2px]"> Kebutuhanmu</span>
               </h1>
-              <Image src="/images/garisungu.svg" alt="Garis Bawah" width={429} height={30} />
+              <Image src="/images/garisungu.svg" alt="" width={429} height={30} />
               <p className="max-w-[600px] mt-[20px] font-light  2xl:mt-[50px]">Membantu pebisnis, profesional, dan UMKM jadi lebih produktif dengan mengurus tugas-tugas kecil yang sering memakan waktu.</p>
             </div>
             <div className="flex">
