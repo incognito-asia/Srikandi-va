@@ -5,7 +5,7 @@ import { GoogleAnalytics } from "@next/third-parties/google";
 
 export const metadata: Metadata = {
   title: "Solusi Cerdas Jasa Virtual Assistant",
-  description: "Srikandi VA memberdayakan ibu ibu rumah tangga dan wanita yang berumur produktif, sehingga palaku UMKM dan Pebisnis hemat waktu dan lebih produktif.",
+  description: "Srikandi VA memberdayakan ibu rumah tangga dan wanita berumur produktif, sehingga pelaku UMKM dan Pebisnis hemat waktu dan lebih produktif.",
   verification: {
     google: "x8nsNCwkJrUBwNS3J0X8QJuLKoi7CcLqW3uG76HWhQU",
   },
