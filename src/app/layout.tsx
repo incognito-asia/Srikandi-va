@@ -4,8 +4,8 @@ import { Toaster } from "sonner";
 import { GoogleAnalytics } from "@next/third-parties/google";
 
 export const metadata: Metadata = {
-  title: "Srikandi VA",
-  description: "Virtual Assistant Service",
+  title: "Solusi Cerdas Jasa Virtual Assistant",
+  description: "Srikandi VA memberdayakan UMKM, pebisnis & profesional dengan virtual assistant handal sehingga lebih produktif, hemat waktu, dan berdampak sosial.",
   verification: {
     google: "x8nsNCwkJrUBwNS3J0X8QJuLKoi7CcLqW3uG76HWhQU",
   },

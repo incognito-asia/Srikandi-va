@@ -35,7 +35,7 @@ export default function RequestPage() {
 
             {/* Kolom Kanan: Gambar (disembunyikan di bawah lg) */}
             <div className="hidden lg:flex lg:justify-end">
-              <Image src="/images/imagefixformpage.jpg" alt="Virtual Assistant" width={550} height={950} className="rounded-xl object-cover xl:w-[650px] xl:h-auto" />
+              <Image src="/images/imagefixformpage.jpg" alt="Cara Menemukan Virtual Assistant Dan Kemudahan Menjadi Virtual Assistant Bagi Ibu Rumah Tangga " width={550} height={950} className="rounded-xl object-cover xl:w-[650px] xl:h-auto" />
             </div>
           </div>
         </div>
